@@ -6,6 +6,7 @@ tags : javascript
 ---
 
 代码如下：
+	 &lt; pre &glt; 
 	function getCurrentDate(){ 
 		var oDate = new Date(); 
 		return oDate.getFullYear() + "-" + 
@@ -27,3 +28,4 @@ tags : javascript
 		return aWeekDay[new Date().getDay()]; 
 	}
 	document.write("现在是 " + getCurrentDate() + " " + getWeekDay()); 
+	&lt; pre &glt; 
