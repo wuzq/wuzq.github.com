@@ -4,10 +4,9 @@ category : tech-javascript
 tags : javascript
 
 ---
+
 代码如下：
-	<html> 
-	<body> 
-	<script type="text/javascript"> 
+	pre	
 	function getCurrentDate(){ 
 		var oDate = new Date(); 
 		return oDate.getFullYear() + "-" + 
@@ -31,9 +30,4 @@ tags : javascript
 	} 
 
 	document.write("现在是 " + getCurrentDate() + " " + getWeekDay()); 
-	</script> 
-	<body> 
-	</html> 
-
-
-
+	pre	
