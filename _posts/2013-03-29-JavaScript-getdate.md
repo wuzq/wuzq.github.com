@@ -6,7 +6,7 @@ tags : javascript
 ---
 javascript获取当前日期
 代码如下：
-	 &lt;pre&gt; 
+	<pre> 
 	function getCurrentDate(){ 
 		var oDate = new Date(); 
 		return oDate.getFullYear() + "-" + 
@@ -28,4 +28,4 @@ javascript获取当前日期
 		return aWeekDay[new Date().getDay()]; 
 	}
 	document.write("现在是 " + getCurrentDate() + " " + getWeekDay()); 
-	&lt;/pre&gt; 
+	</pre>
