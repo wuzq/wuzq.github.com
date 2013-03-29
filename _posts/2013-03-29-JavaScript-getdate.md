@@ -4,7 +4,7 @@ category : tech-javascript
 tags : javascript
 
 ---
-javascript获取当前日期
+javascript获取当前日期<br>
 代码如下：
 	<pre> 
 	function getCurrentDate(){ 
