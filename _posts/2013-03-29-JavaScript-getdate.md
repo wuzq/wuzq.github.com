@@ -4,9 +4,9 @@ category : tech-javascript
 tags : javascript
 
 ---
-
+javascript获取当前日期
 代码如下：
-	<pre> 
+	 &lt;pre&gt; 
 	function getCurrentDate(){ 
 		var oDate = new Date(); 
 		return oDate.getFullYear() + "-" + 
@@ -28,4 +28,4 @@ tags : javascript
 		return aWeekDay[new Date().getDay()]; 
 	}
 	document.write("现在是 " + getCurrentDate() + " " + getWeekDay()); 
-	</pre>
+	&lt;/pre&gt; 
