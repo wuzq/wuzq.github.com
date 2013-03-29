@@ -3,7 +3,7 @@ layout : post
 category : tech-javascript
 tags : javascript
 ---
-
+<pre>
 <html> 
 <body> 
 <script type="text/javascript"> 
@@ -33,3 +33,4 @@ document.write("现在是 " + getCurrentDate() + " " + getWeekDay());
 </script> 
 <body> 
 </html> 
+</pre>
