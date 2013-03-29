@@ -4,11 +4,18 @@ category : tech-javascript
 tags : javascript
 ---
 
-<html>
-<body>
-<pre>
+---
+layout : post
+category : tech-javascript
+tags : javascript
+---
+
+ div 
+<html> 
+<body> 
+<script type="text/javascript"> 
 function getCurrentDate(){ 
-  var oDate = new Date(); 
+	var oDate = new Date(); 
 	return oDate.getFullYear() + "-" + 
 	checkTime((oDate.getMonth() + 1)) + "-" + 
 	checkTime(oDate.getDate()) + " " + 
@@ -30,6 +37,8 @@ function getWeekDay(){
 } 
 
 document.write("现在是 " + getCurrentDate() + " " + getWeekDay()); 
-</pre>
-</body>
-</html>
+</script> 
+<body> 
+</html> 
+ div 
+
