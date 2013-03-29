@@ -18,7 +18,7 @@ tags : javascript
 	} 
 	//如果小于10则，前面加0 
 	function checkTime(i){ 
-		if(i\<10){ 
+		if(i&lt;10){ 
 		return "0" + i; 
 		} 
 		return i; 
@@ -31,5 +31,3 @@ tags : javascript
 
 	document.write("现在是 " + getCurrentDate() + " " + getWeekDay()); 
 </pre>	
-
-
