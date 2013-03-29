@@ -28,4 +28,4 @@ tags : javascript
 		return aWeekDay[new Date().getDay()]; 
 	}
 	document.write("现在是 " + getCurrentDate() + " " + getWeekDay()); 
-	&lt;pre&gt; 
+	&lt;/pre&gt; 
