@@ -4,9 +4,7 @@ category : tech-javascript
 tags : javascript
 ---
 <pre>
-<html> 
-<body> 
-<script type="text/javascript"> 
+
 function getCurrentDate(){ 
   var oDate = new Date(); 
 	return oDate.getFullYear() + "-" + 
@@ -30,7 +28,4 @@ function getWeekDay(){
 } 
 
 document.write("现在是 " + getCurrentDate() + " " + getWeekDay()); 
-</script> 
-<body> 
-</html> 
 </pre>
