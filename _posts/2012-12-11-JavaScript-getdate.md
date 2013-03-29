@@ -23,11 +23,11 @@ tags : javascript
 		} 
 		return i; 
 	} 
-
+	
 	function getWeekDay(){ 
 		var aWeekDay = new Array("周日", "周一", "周二", "周三", "周四", "周五", "周六"); 
 		return aWeekDay[new Date().getDay()]; 
 	} 
 
 	document.write("现在是 " + getCurrentDate() + " " + getWeekDay()); 
-</pre>	
+</pre>
