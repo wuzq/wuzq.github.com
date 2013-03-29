@@ -3,8 +3,10 @@ layout : post
 category : tech-javascript
 tags : javascript
 ---
-<pre>
 
+<html>
+<body>
+<pre>
 function getCurrentDate(){ 
   var oDate = new Date(); 
 	return oDate.getFullYear() + "-" + 
@@ -29,3 +31,5 @@ function getWeekDay(){
 
 document.write("现在是 " + getCurrentDate() + " " + getWeekDay()); 
 </pre>
+</body>
+</html>
