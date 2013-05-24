@@ -4,7 +4,7 @@ layout : post
 
 category : manage
 
-tags : [javascript 数组对象中的迭代方法]
+tags : [javascript]
 
 title : javascript 数组对象中的迭代方法
 
