@@ -6,7 +6,7 @@ category : manage
 
 tags : [javascript]
 
-title : JavaScript 的“预编译”
+title : javascript 的“预编译”
 
 ---
 
