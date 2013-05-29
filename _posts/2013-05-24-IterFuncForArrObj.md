@@ -6,11 +6,12 @@ category : manage
 
 tags : [javascript]
 
-title : javascript 数组对象中的迭代方法
+title : javascript数组对象中的迭代方法
 
 ---
 
-/* javascript 数组对象中的迭代方法  
+#javascript 数组对象中的迭代方法
+/*   
  * ECMAScript5为数组定义了5个迭代方法。每个方法都接受两个参数，第一个是进行迭代的函数，第二个是该函数的作用域对象【可选】。  
  * 进行迭代的函数接受三个参数，第一个是数组中要进行迭代的元素的值，第二个是数组候总要进行迭代的元素的位置，第三个是迭代数组本身。  
  * 1. every()   对数组中的每一项运行给定的函数，如果该函数对每一项都返回true，则返回true   
