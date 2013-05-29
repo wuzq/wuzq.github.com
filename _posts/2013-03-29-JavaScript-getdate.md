@@ -9,7 +9,7 @@ tags : [javascript]
 title : javascript获取当前日期
 
 ---
-代码如下：
+	代码如下：
 	function getCurrentDate(){ 
 		var oDate = new Date(); 
 		return oDate.getFullYear() + "-" + 
