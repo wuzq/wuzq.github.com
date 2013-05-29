@@ -63,4 +63,4 @@ title : javascript Object对象
 	 
 	结论，js对象的属性的属性名，只能是字符串，所以写在[]中的其他东西，终将转化为字符串
 
-	转载地址：<a href="http://cymoft.blog.51cto.com/324099/63288">http://cymoft.blog.51cto.com/324099/63288</a>
+	转载地址：http://cymoft.blog.51cto.com/324099/63288
