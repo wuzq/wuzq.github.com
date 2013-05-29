@@ -10,7 +10,6 @@ title : javascript 的“预编译”
 
 ---
 
-	
 	先看“变量式”函数的写法，代码：
 	<script type="text/javascript">
 	var func = function(){
@@ -65,4 +64,3 @@ title : javascript 的“预编译”
 	
 	一段代码中的定义式函数语句会优先执行，这似乎有点象静态语言的编译概念。所以，这
 	一特征也被有些人称为：javascript的“预编译”。
-	
