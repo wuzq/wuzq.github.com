@@ -2,7 +2,7 @@
 
 layout : post
 
-category : manage
+category : tech-javascript 
 
 tags : [javascript]
 
