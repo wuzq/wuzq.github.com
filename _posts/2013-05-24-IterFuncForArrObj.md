@@ -54,4 +54,4 @@ title : javascript数组对象中的迭代方法
             return true;  
         }  
     });  
-    alert(forEachResult); 
+    alert(forEachResult);  
