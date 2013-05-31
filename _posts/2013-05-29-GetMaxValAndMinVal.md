@@ -6,7 +6,7 @@ category : manage
 
 tags : [javascript]
 
-title : javaScript 数组取最大最小值
+title : javascript 数组取最大最小值
 
 ---
 
